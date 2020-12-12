@@ -1,1 +1,1 @@
-background-generator.in
+background-generator
